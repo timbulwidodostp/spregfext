@@ -1,6 +1,8 @@
 # spregfext
 Spatial Panel Fixed Effects Regression Lag and Durbin Models Use spregfext With STATA 18
 
+https://www.youtube.com/watch?v=Hs9X447gjh8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
